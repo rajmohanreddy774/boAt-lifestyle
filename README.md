@@ -6,10 +6,11 @@ I am here to share our experience of working on a constructive week project assi
 
 Our group Members
 
-Neeraj khajuriya
-Deepak Shankar Dubey
-Raj Mohan M
+Neeraj khajuriya,
+Deepak Shankar Dubey,
+Raj Mohan M,
 Aman bind
+
 We were assigned to work on cloning the website called https://www.boat-lifestyle.com/
 
 #Project Outcome
@@ -24,17 +25,19 @@ We are expecting to create a pixel-perfect cloned site of the Boat website withi
 
 
 Tech Stacks:
-HTML
-CSS
-DOM
+
+HTML,
+CSS,
+DOM,
 Local Storage
 
 #Roles and Responsibilities:
 
-Neeraj khajuriya — Landing page , Header, Footer
-Deepak Shankar Dubey — Product Page, Product Detail page
-Raj Mohan M — Cart page, Login page, signup page, Local Storage, sig-in Authentication.
+Neeraj khajuriya — Landing page , Header, Footer.<br>
+Deepak Shankar Dubey — Product Page, Product Detail page<br>
+Raj Mohan M — Cart page, Login page, signup page, Local Storage, sig-in Authentication.<br>
 Aman bind — Data collection, product template.
+
 Day-1:
 
 First of all when we come to know about our project We are extremely excited to build this project as a team.
