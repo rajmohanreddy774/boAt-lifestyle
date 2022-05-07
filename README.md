@@ -6,9 +6,9 @@ I am here to share our experience of working on a constructive week project assi
 
 Our group Members
 
-Neeraj khajuriya,
-Deepak Shankar Dubey,
-Raj Mohan M,
+Neeraj khajuriya<br>
+Deepak Shankar Dubey<br>
+Raj Mohan M<br>
 Aman bind
 
 We were assigned to work on cloning the website called https://www.boat-lifestyle.com/
